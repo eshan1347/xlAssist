@@ -1,6 +1,10 @@
 # xlAssist
 Tool to auto complete columns in google sheet with LLMs &amp; Web Search Engine
 
+Resume: https://bit.ly/3Dp3s3M
+Demo: Demo.webm
+Report: 'CAPRAE CAPITAL ASSIGNMENT.pdf'
+
 ## Introduction 
 An Intelligent & knowledgeable auto completion tool embedded into google sheets with LLM + Search agents.
 
